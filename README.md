@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedromirandan&label=Profile%20views&color=0e75b6&style=flat" alt="pedromirandan" /> </p>
 
+<div align="center">
+   <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+
+  </div>
+
 - 🔭 I’m currently working on **my portfolio, so you'll need to wait a little longer to see all my projects.**
 
 - 🌱 I’m currently learning **some NextJS and Typescript,** I think it may be useful for some projects🤫.
