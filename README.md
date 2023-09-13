@@ -35,4 +35,3 @@
 <a href='https://www.postgresql.org/' target="_blank" rel="noopener noreferrer"><img src='https://raw.githubusercontent.com/0install/0install.de-feeds/master/pgAdmin3.png' width='50px' height='50px'/></a>
 <a href='https://sequelize.org/' target="_blank" rel="noopener noreferrer"><img src='https://images.opencollective.com/sequelize/5974b6b/logo/256.png' width='50px' height='50px'/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromirandan)](https://github.com/pedromirandan/github-readme-stats)
